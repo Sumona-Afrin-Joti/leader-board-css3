@@ -53,7 +53,7 @@ main{
     background-color: #FFFFFF;
     width:870px;
     padding: 30px;
-    margin-top:21px;
+    margin-top:90px;
 }
 
 /* Top Players style */
@@ -220,8 +220,8 @@ hr{
         width: 100%;
         border-radius: 5px;
         position: fixed;
-       top:0;
-       left: 0;
+        top:0;
+        left: 0;
     }
     .nav{
         margin-left: 80px;
